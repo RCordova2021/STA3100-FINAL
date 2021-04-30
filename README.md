@@ -39,5 +39,6 @@ shiny::runGitHub("STA3100-FINAL", "RCordova2021", ref = "main")
 ## ShinyApp.io Link
 
 Run app using shinyapps.io at:
+https://rcordova2021.shinyapps.io/stats3/
 
 

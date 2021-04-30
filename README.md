@@ -7,16 +7,24 @@ This web app takes several of the best selling and most common compact sedans on
 
 
 
-##How to use the APP
+## How to use the APP
 
 After opening the app there are two tabs. Clicking the tabs switches between them.
 
-The tab labeled "General Info." contains inputs to generate stats on all the different cars. 
+The tab labeled "General Info." contains inputs to generate a table and histogram of the cars from the dataset.  
 
- Click the drop down menu to select what model car you would like to know about. Then click confirm. 
+ <ul>
+ <li>Click the drop down menu to select the car you would like to know about.</li> 
+ <li>Then Select the metric you want the histogram to run</li>
+ <li>Then click confirm.</li> 
+ </ul>
  
- 
+
  The tab labeled "Smiles per Gallon" contains a chart that compares the MPG of the car to it Horsepower. 
  
+<ul>
+<li>Select the car you would like to display information on </li>
+<li>Then click Confirm</li>
+</ul>
 
-
+Note that the Histogram does not change on the second tab. That histogram is of the MPG.HP metric. It is a measure of how much power a engine has per unit of MPG. 

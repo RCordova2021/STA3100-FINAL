@@ -28,3 +28,16 @@ The tab labeled "General Info." contains inputs to generate a table and histogra
 </ul>
 
 Note that the Histogram does not change on the second tab. That histogram is of the MPG.HP metric. It is a measure of how much power a engine has per unit of MPG. 
+
+## Run from Github
+Run the app from GitHub by running the code below in R:
+
+library(shiny)
+
+shiny::runGitHub("STA3100-FINAL", "RCordova2021", ref = "main")
+
+## ShinyApp.io Link
+
+Run app using shinyapps.io at:
+
+

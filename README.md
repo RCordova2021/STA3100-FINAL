@@ -21,7 +21,7 @@ The tab labeled "General Info." contains inputs to generate a table and histogra
  
  The data will be displayed to the right of the inputs. To generate the data for a different car or metric, simply repreat the steps above.
 
- The tab labeled "Smiles per Gallon" contains a chart that compares the MPG of the car to it Horsepower. 
+ The tab labeled "Smiles per Gallon" contains a histogram that compares the MPG of the car to it Horsepower. 
  
 <ul>
 <li>Select the car you would like to display information on </li>
